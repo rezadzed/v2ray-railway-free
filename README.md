@@ -1,5 +1,3 @@
-# v2ray-railway-free
-Rezadz 
 # V2Ray on Railway - by rezadzed
 
 Deploy your own V2Ray VPN server to Railway in minutes, for free.
